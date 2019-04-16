@@ -1,1 +1,3 @@
-ni hao
+ni hao;
+nihaol
+nihaol
